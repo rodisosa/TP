@@ -1,0 +1,85 @@
+.hal {
+   background-color: black;
+   font-family: sans-serif;
+   color: white;
+   text-align: center;
+   font-weight: bold;
+   width: 100%;
+   border-style: outset;
+}
+#formulario{
+  border-style: double;
+  color: black;
+  padding: 7.5px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-color: LightGray;
+  background-color: white;
+}
+#formulario p{
+  color: black;
+  font-family: sans-serif;
+}
+#formulario h3{
+  color: black;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+.enviar{
+background-color: rgb(83, 178, 255);
+border: none;
+color: white;
+padding: 7.5px 16px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.restablecer{
+background-color: rgb(255, 74, 64);
+border: none;
+color: black;
+padding: 7.5px 16px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.res{
+  border: 2px solid black;
+  border-radius: 8px;
+  width: 100%;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  background-color: LightGray;
+}
+.borrar{
+  border: 2px rgb(255, 74, 64);
+  border-radius: 16px;
+  background-color: rgb(255, 74, 64);
+  color: black;
+  padding: 7.5px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.pie{
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: black;
+  width: 100%;
+  border: 2px black;
+  border-radius: 16px;
+}
